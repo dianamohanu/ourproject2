@@ -15,6 +15,6 @@ public class Main {
     }
 
     public static void printGabriela() {
-        System.out.println("Gabriela");
+        System.out.println("GABRIELA");
     }
 }
