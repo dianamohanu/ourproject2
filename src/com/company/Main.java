@@ -8,6 +8,7 @@ public class Main {
         System.out.println("11 members");
         printGabriela();
         printDiana();
+        printMatei();
     }
 
     public static void printDiana() {
@@ -17,4 +18,9 @@ public class Main {
     public static void printGabriela() {
         System.out.println("GABRIELA");
     }
+
+    public static void printMatei() {
+        System.out.println("MATEI");
+    }
+
 }
