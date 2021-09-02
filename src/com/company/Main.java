@@ -6,9 +6,14 @@ public class Main {
 	// write your code here
         System.out.println("Our team");
         System.out.println("11 members");
+	    petcuDragos();
     }
 
     public static void login() {
         System.out.println("123");
+    }
+
+    public static void petcuDragos() {
+        System.out.println("Lui Dragos ii plac cartofii ;(");
     }
 }
