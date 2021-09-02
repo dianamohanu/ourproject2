@@ -9,6 +9,6 @@ public class Main {
     }
 
     public static void login() {
-
+        System.out.println("123");
     }
 }
