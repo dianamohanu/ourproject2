@@ -6,7 +6,7 @@ public class Main {
 	// write your code here
         System.out.println("Our team");
         System.out.println("11 members");
-        printMyName();
+        printGabriela();
         printDiana();
     }
 
@@ -14,7 +14,7 @@ public class Main {
         System.out.println("Diana");
     }
 
-    public static void printMyName() {
+    public static void printGabriela() {
         System.out.println("Gabriela");
     }
 }
