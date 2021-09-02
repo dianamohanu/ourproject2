@@ -7,6 +7,11 @@ public class Main {
         System.out.println("Our team");
         System.out.println("11 members");
         printDiana();
+        printDragos();
+    }
+
+    public static void printDragos() {
+        System.out.println("Petcu Dragos");
     }
 
     public static void printDiana() {
