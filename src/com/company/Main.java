@@ -13,7 +13,4 @@ public class Main {
         System.out.println("Diana");
     }
 
-    public static void login() {
-        System.out.println("123");
-    }
 }
