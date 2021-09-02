@@ -11,4 +11,8 @@ public class Main {
     public static void login() {
         System.out.println("123");
     }
+
+    public static void andreiMethod() {
+        System.out.println("Mariciu Andrei Alexandru");
+    }
 }
