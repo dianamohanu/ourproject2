@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Our team");
         System.out.println("11 members");
         printDiana();
+        andreiMethod();
     }
 
     public static void printDiana() {
