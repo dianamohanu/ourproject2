@@ -10,6 +10,11 @@ public class Main {
         printGabriela();
         printDiana();
         printMatei();
+        printDragos();
+    }
+
+    public static void printDragos() {
+        System.out.println("Petcu Dragos");
     }
 
     public static void printDiana() {
