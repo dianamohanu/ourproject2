@@ -13,4 +13,8 @@ public class Main {
         System.out.println("Diana");
     }
 
+    public static void printDaniel(){
+        System.out.println(("Daniel-Iosif"));
+    }
+
 }
