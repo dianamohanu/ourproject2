@@ -9,11 +9,7 @@ public class Main {
 	    petcuDragos();
     }
 
-    public static void login() {
-        System.out.println("123");
-    }
-
     public static void petcuDragos() {
-        System.out.println("Lui Dragos ii plac cartofii ;(");
+        System.out.println("Petcu Dragos");
     }
 }
