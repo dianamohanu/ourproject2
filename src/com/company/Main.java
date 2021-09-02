@@ -14,7 +14,7 @@ public class Main {
     }
 
     public static void printDaniel(){
-        System.out.println(("Daniel-Iosif"));
+        System.out.println(("Daniel-Iosif."));
     }
 
 }
