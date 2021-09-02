@@ -9,6 +9,7 @@ public class Main {
         printKlaus();
         printGabriela();
         printDiana();
+        printAndrei();
         printMatei();
         printDragos();
     }
@@ -19,6 +20,10 @@ public class Main {
 
     public static void printDiana() {
         System.out.println("Diana");
+    }
+
+    public static void printAndrei() {
+        System.out.println("Mariciu Andrei Alexandru");
     }
 
     public static void printKlaus(){
