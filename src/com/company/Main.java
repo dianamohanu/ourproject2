@@ -6,12 +6,17 @@ public class Main {
 	// write your code here
         System.out.println("Our team");
         System.out.println("11 members");
+        printGabriela();
         printDiana();
         printMatei();
     }
 
     public static void printDiana() {
         System.out.println("Diana");
+    }
+
+    public static void printGabriela() {
+        System.out.println("GABRIELA");
     }
 
     public static void printMatei() {
