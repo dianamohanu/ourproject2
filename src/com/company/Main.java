@@ -15,7 +15,7 @@ public class Main {
     }
 
     public static void printMatei() {
-        System.out.println("Matei");
+        System.out.println("MATEI");
     }
 
 }
