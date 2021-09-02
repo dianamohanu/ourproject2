@@ -7,10 +7,15 @@ public class Main {
         System.out.println("Our team");
         System.out.println("11 members");
         printDiana();
+        printMatei();
     }
 
     public static void printDiana() {
         System.out.println("Diana");
+    }
+
+    public static void printMatei() {
+        System.out.println("Matei");
     }
 
 }
