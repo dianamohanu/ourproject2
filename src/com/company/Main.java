@@ -7,4 +7,8 @@ public class Main {
         System.out.println("Our team");
         System.out.println("11 members");
     }
+
+    public static void login() {
+
+    }
 }
