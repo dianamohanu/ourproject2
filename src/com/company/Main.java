@@ -9,7 +9,7 @@ public class Main {
         printKlaus();
         printGabriela();
         printDiana();
-        printAndreiMethod();
+        printAndrei();
         printMatei();
     }
 
@@ -17,7 +17,7 @@ public class Main {
         System.out.println("Diana");
     }
 
-    public static void printAndreiMethod() {
+    public static void printAndrei() {
         System.out.println("Mariciu Andrei Alexandru");
     }
 
